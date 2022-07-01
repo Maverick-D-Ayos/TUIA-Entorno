@@ -1,2 +1,2 @@
 # TUIA-Entorno
-Trabajo Practico de ENtorno de Programacion
+Trabajo Practico de Entorno de Programacion
